@@ -8,14 +8,14 @@ import pyromod.listen
 
 
 class Bot(Client):
-    USER: User = None
-    USER_ID: int = None
-
+    USER: User = "Pppp0080"
+    USER_ID: int = 
+1247783606
     def __init__(self):
         super().__init__(
             Config.BOT_SESSION,
-            api_hash=Config.API_HASH, "http://149.154.167.40:443"
-            api_id=Config.API_ID, "24612695"
+            api_hash=Config.API_HASH "ba3159de9587c4364111fc40fe5ec6c8"
+            api_id=Config.API_ID "24612695"
             plugins={
                 "root": "plugins"
             },
