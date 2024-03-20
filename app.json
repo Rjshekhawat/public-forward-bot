@@ -25,7 +25,7 @@
     "BOT_USERNAME": {
       "description": "Username of your Bot without @ , Only give if you want auto starts forwarding when heroku restarts",
       "value": "Sandeepshekhawatbot",
-      "required": false
+      "required": true 
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
@@ -42,7 +42,7 @@
     "COLLECTION_NAME": {
       "description": "Database Collection Name",
       "value": "Forward_data",
-      "required": false
+      "required": true 
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
