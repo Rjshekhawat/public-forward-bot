@@ -46,7 +46,7 @@
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "1247783606"
     },
     "SESSION": {
       "description": "Pyrogram string Session https://t.me/string_session_generator_658_bot",
