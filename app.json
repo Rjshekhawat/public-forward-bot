@@ -12,28 +12,28 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "24612695"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "ba3159de9587c4364111fc40fe5ec6c8"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "6837952381:AAEHWizMcVrB5aGCCh-CK8-v1p5qzGUElZE"
     },
     "BOT_USERNAME": {
       "description": "Username of your Bot without @ , Only give if you want auto starts forwarding when heroku restarts",
-      "value": "",
+      "value": "Sandeepshekhawatbot",
       "required": false
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": ""
+      "value": "2052687693"
     },
     "DATABASE_URI": {
       "description": "Get this from cloud.mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://Saj:sandeep@cluster0.sjhtmdh.mongodb.net/"
     },
     "DATABASE_NAME": {
       "description": "Database cluster name",
